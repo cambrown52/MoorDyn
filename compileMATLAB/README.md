@@ -36,7 +36,7 @@ clib.MoorDyn.LinesInit([0,0,0,0,0,0],[0,0,0,0,0,0])
 % exit MoorDyn
 clib.MoorDyn.LinesClose()
  ```
-MATLAB clib documentation is locaed here 
+MATLAB clib documentation is located here 
 
 https://se.mathworks.com/help/matlab/matlab_external/call-functions-in-cpp-shared-library.html
 
